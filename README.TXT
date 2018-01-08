@@ -10,3 +10,13 @@ VERSION or DATE:
 HOW TO START THIS PROJECT:
 AUTHORS:
 USER INSTRUCTIONS:
+
+Test case
+Enter birthdate (yyyy-mm-dd) : 2017-01-09
+Your was born on a Monday.
+
+Enter birthdate (yyyy-mm-dd) : 2006-08-12
+Your was born on a Saturday.
+
+Enter birthdate (yyyy-mm-dd) : 1982-12-05
+Your was born on a Sunday.
